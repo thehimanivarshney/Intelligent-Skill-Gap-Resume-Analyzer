@@ -1,0 +1,13 @@
+sentence-transformers
+transformers
+torch
+spacy
+gradio
+pdfplumber
+python-docx
+PyMuPDF
+nltk
+pandas
+numpy
+matplotlib
+scikit-learn
