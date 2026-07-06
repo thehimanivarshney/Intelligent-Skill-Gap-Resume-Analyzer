@@ -1,10 +1,10 @@
-# 🧠 Intelligent Skill-Gap & Resume Analyzer using Transformer-Based Deep Learning
+# Intelligent Skill-Gap & Resume Analyzer using Transformer-Based Deep Learning
 
 > An AI-powered resume analysis system that leverages Transformer-based Deep Learning and Natural Language Processing (NLP) to compare resumes with job descriptions, identify skill gaps, calculate ATS compatibility, evaluate communication quality, and recommend personalized learning paths.
 
 ---
 
-# 📌 Table of Contents
+# Table of Contents
 
 - Project Overview
 - Objectives
@@ -27,7 +27,7 @@
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 Recruiters receive hundreds of resumes for every job opening. Traditional Applicant Tracking Systems (ATS) primarily rely on keyword matching, which often fails to understand the actual semantic meaning of a candidate's experience.
 
@@ -44,7 +44,7 @@ The system also provides:
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 The primary objectives of this project are:
 
@@ -58,7 +58,7 @@ The primary objectives of this project are:
 
 ---
 
-# ✨ Key Features
+# Key Features
 
 ## 1. Transformer-Based Semantic Matching
 
@@ -78,11 +78,11 @@ Job Description:
 
 Traditional keyword matching:
 
-❌ Low match
+ Low match
 
 Sentence-BERT:
 
-✅ High semantic similarity
+ High semantic similarity
 
 ---
 
@@ -203,7 +203,7 @@ Provides a simple interface for analyzing resumes directly from the notebook.
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```
                      Resume Dataset
@@ -239,7 +239,7 @@ Job Description Dataset ───┘
 
 ---
 
-# 💻 Technologies Used
+# Technologies Used
 
 ## Programming Language
 
@@ -275,7 +275,7 @@ Job Description Dataset ───┘
 
 ---
 
-# 🧠 Deep Learning Concepts Used
+# Deep Learning Concepts Used
 
 This project applies the following Deep Learning concepts:
 
@@ -291,7 +291,7 @@ The pretrained **all-MiniLM-L6-v2** model from Sentence Transformers is used to 
 
 ---
 
-# 📂 Dataset Information
+# Dataset Information
 
 Two datasets were used.
 
@@ -325,7 +325,7 @@ Used Columns:
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 Install required libraries.
 
@@ -357,7 +357,7 @@ nltk.download("wordnet")
 
 ---
 
-# 🔄 Project Workflow
+# Project Workflow
 
 ```
 Load Datasets
@@ -395,7 +395,7 @@ Final AI Report
 
 ---
 
-# 🔬 Methodology
+# Methodology
 
 ## Step 1
 
@@ -470,7 +470,7 @@ Generate personalized recommendations
 
 ---
 
-# 📊 Results & Visualizations
+# Results & Visualizations
 
 The notebook generates:
 
@@ -483,7 +483,7 @@ The notebook generates:
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 Intelligent-Skill-Gap-Resume-Analyzer/
@@ -499,7 +499,7 @@ Intelligent-Skill-Gap-Resume-Analyzer/
 
 ---
 
-# ▶️ Usage
+# Usage
 
 1. Upload the datasets.
 2. Run all notebook cells sequentially.
@@ -511,7 +511,7 @@ Intelligent-Skill-Gap-Resume-Analyzer/
 
 ---
 
-# 📈 Evaluation Metrics
+# Evaluation Metrics
 
 The project evaluates resumes using:
 
@@ -524,7 +524,7 @@ The project evaluates resumes using:
 
 ---
 
-# 📋 Sample Output
+# Sample Output
 
 ```
 ==========================================
@@ -568,7 +568,7 @@ Git & GitHub
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 - PDF resume upload support
 - DOCX resume support
@@ -582,7 +582,7 @@ Git & GitHub
 
 ---
 
-# ⚠️ Limitations
+# Limitations
 
 - Skill extraction currently relies on a predefined technical skill dictionary.
 - Communication grading is heuristic-based and not powered by a dedicated deep learning model.
@@ -591,7 +591,7 @@ Git & GitHub
 
 ---
 
-# 🎓 Conclusion
+# Conclusion
 
 The Intelligent Skill-Gap & Resume Analyzer demonstrates how Transformer-based Deep Learning can enhance resume screening beyond traditional keyword matching. By combining semantic embeddings with NLP techniques and analytical modules, the system provides meaningful insights into resume quality, skill gaps, and job compatibility.
 
@@ -599,7 +599,7 @@ The project showcases the practical application of Sentence-BERT, Natural Langua
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Himani Varshney**
 
@@ -611,4 +611,4 @@ GitHub: https://github.com/thehimanivarshney
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star on GitHub.
+## If you found this project useful, consider giving it a star on GitHub.
